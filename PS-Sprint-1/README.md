@@ -266,7 +266,7 @@
     **Description**: Write a program to find the sum of the digits of the factorial of a given number.  
     **Example**:  
     Input: `number = 4`  
-    Output: `9`  
+    Output: `6`  
     Explanation: The factorial of 4 is 24, and the sum of the digits (2 + 4) is 6.  
 
 29. **Finding the Largest Palindrome in a String**  
