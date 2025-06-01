@@ -100,8 +100,8 @@
     **Description**: Write a program to find how many perfect numbers exist up to a given limit.  
     **Example**:  
     Input: `limit = 30`  
-    Output: `1`  
-    Explanation: There is only one perfect number (6) up to 30.
+    Output: `2`  
+    Explanation: There is only two perfect number (6,28) up to 30.
 
 11. **Finding the Largest Prime Factor of a Number**  
     **Difficulty**: Medium  
