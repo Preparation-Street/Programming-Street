@@ -23,7 +23,7 @@
    **Example**:  
    Input: `year = 2020`  
    Output: `Leap Year`  
-   Explanation: 2020 is divisible by 4 but not by 100, or it is divisible by 400, so it is a leap year.  
+   Explanation: A year is a leap year if it is divisible by 4 but not by 100, unless it is also divisible by 400.  
 
 4. **Calculating Armstrong Numbers**  
    **Difficulty**: Easy  
